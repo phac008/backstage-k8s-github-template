@@ -1,1 +1,1 @@
-console.log('Hello from node-js-circle-ci-template!');
+console.log('Hello from node!');
