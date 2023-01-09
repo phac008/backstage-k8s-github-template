@@ -1,5 +1,5 @@
 {
-  "name": "node-js-circle-ci-template",
+  "name": "${{ values.component_id }}",
   "private": true,
   "dependencies": {}
 }
