@@ -1,5 +1,0 @@
-{
-  "name": "${{ values.component_id }}",
-  "private": true,
-  "dependencies": {}
-}

@@ -1,12 +1,11 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: node-circleci-template
-  title: Node CircleCI Template
-  description: Create an app with Node with CircleCI
+  name: k8s-githubactions-argocd-template
+  title: GitHub Actions K8s ArgoCD Template
+  description: Create an app with GitHub Actions as CI and ArgoCD
   tags:
     - recommended
-    - node
 spec:
   owner: web@example.com
   type: website
