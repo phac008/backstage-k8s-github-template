@@ -7,6 +7,7 @@ metadata:
     backstage.io/kubernetes-id: ${{values.component_id | dump}}
     argocd/app-name: ${{values.component_id | dump}}
     backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-namespace: suxess-it-dev
 spec:
   type: service
   lifecycle: experimental
